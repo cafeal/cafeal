@@ -1,7 +1,17 @@
-### Hi, I'm Junki Ishikawa 👋
-#### My handle name is `cafeal`
+### Hi, I'm cafeal 👋
 
-I'm mainly machine learning engineer, but also I'm interested in web engineering and other fields.
+<a href="https://twitter.com/cafeal__">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/junki-ishikawa-418b56155">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>
+<a href="https://www.kaggle.com/cafeal">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
+
+
+##### I'm machine learning engineer and web engineer.
 
 ⚡ Mahine Learning  
 ⚡ Library Development  
