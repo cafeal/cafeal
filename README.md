@@ -1,5 +1,6 @@
 ### Hi, I'm cafeal 👋
 
+<div>
 <a href="https://twitter.com/cafeal__">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>  
@@ -11,8 +12,7 @@
 <a href="https://www.kaggle.com/cafeal">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>  
-
-<br>
+</div>
 
 ##### I'm machine learning engineer and web engineer.
 
