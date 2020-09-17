@@ -1,4 +1,4 @@
-### Hi, I'm cafeal 👋
+### Junki Ishikawa (cafeal) 👋
 
 <div>
 <a href="https://twitter.com/cafeal__">
@@ -16,7 +16,7 @@
 
 <br>
 
-##### I'm machine learning engineer and web engineer.
+##### I'm machine learning engineer and web engineer working in Japan.
 
 ⚡ Mahine Learning  
 ⚡ Library Development  
