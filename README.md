@@ -18,10 +18,10 @@
 
 ##### I'm machine learning engineer and web engineer working in Japan.
 
-⚡ Mahine Learning  
-⚡ Library Development  
+⚡ Machine Learning  
+⚡ Library Developments  
 ⚡ Web engineering  
-⚡ Java sparrow breeder :bird: (but I have few experiences with Java lang.)
+⚡ Java sparrow breeder :bird: (but few experiences with Java lang.)
  
 
 ![](https://github-readme-stats.vercel.app/api?username=cafeal&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
